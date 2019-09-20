@@ -12,12 +12,12 @@
 
 ## 1.8.0 - February 13, 2017
 
-- Add 2018-2027 TARGET holiday defintions
-- Add 2018-2027 Bankgirot holiday defintions
+- Add 2018-2027 TARGET holiday definitions
+- Add 2018-2027 Bankgirot holiday definitions
 
 ## 1.7.0 - January 18, 2017
 
-- Add 2018-2027 BACS holiday defintions
+- Add 2018-2027 BACS holiday definitions
 
 ## 1.6.0 - December 23, 2016
 

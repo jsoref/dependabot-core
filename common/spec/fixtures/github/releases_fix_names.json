@@ -71,7 +71,7 @@
         "assets": [],
         "tarball_url": "https://api.github.com/repos/gocardless/business/tarball/v1.8.0",
         "zipball_url": "https://api.github.com/repos/gocardless/business/zipball/v1.8.0",
-        "body": "- Add 2018-2027 TARGET holiday defintions\n- Add 2018-2027 Bankgirot holiday defintions\n"
+        "body": "- Add 2018-2027 TARGET holiday definitions\n- Add 2018-2027 Bankgirot holiday definitions\n"
     },
     {
         "url": "https://api.github.com/repos/gocardless/business/releases/5196691",

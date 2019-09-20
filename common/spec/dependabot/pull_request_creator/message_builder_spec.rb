@@ -1311,7 +1311,7 @@ RSpec.describe Dependabot::PullRequestCreator::MessageBuilder do
               "gocardless/statesman/blob/master/CHANGELOG.md).*\n\n"\
               "> ## 1.7.0 - January 18, 2017\n"\
               "> \n"\
-              "> - Add 2018-2027 BACS holiday defintions\n"\
+              "> - Add 2018-2027 BACS holiday definitions\n"\
               "</details>\n"\
               "<details>\n"\
               "<summary>Commits</summary>\n\n"\
@@ -1504,7 +1504,7 @@ RSpec.describe Dependabot::PullRequestCreator::MessageBuilder do
               "gocardless/statesman/blob/master/CHANGELOG.md).*\n\n"\
               "> ## 1.7.0 - January 18, 2017\n"\
               "> \n"\
-              "> - Add 2018-2027 BACS holiday defintions\n"\
+              "> - Add 2018-2027 BACS holiday definitions\n"\
               "</details>\n"\
               "<details>\n"\
               "<summary>Commits</summary>\n\n"\
